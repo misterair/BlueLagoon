@@ -2,9 +2,11 @@ Blue Lagoon
 =======
 
 **C'est un cocktail (bis)! C'est la version plus "fresh" de [Screwdriver](https://github.com/misterair/Screwdriver) à la fois. C'est... c'est... un thème pour l'agrégateur de flux RSS [FreshRSS](https://github.com/marienfressinaud/FreshRSS/)**
+
+
 En toute modestie, ce thème tue du Nyan Cat.
 
-![screenshot](https://github.com/misterair/Screwdriver/blob/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/misterair/BlueLagoon/master/screenshot.png)
 
 
 Installation
