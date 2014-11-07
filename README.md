@@ -18,16 +18,16 @@ Installation
 
 
 
-Blue Lagoon est distribué sous license BeerWare:
+Blue Lagoon est distribué sous license AlcoholWare:
 -----------------
 
-« LICENCE BEERWARE » (Révision 42):
+« LICENCE ALCOHOLWARE » (Révision 42):
 
 mister.air@gmail.com a créé ce fichier. Tant que vous conservez cet avertissement,
 
 vous pouvez faire ce que vous voulez de ce truc. Si on se rencontre un jour et
 
-que vous pensez que ce truc vaut le coup, vous pouvez me payer une bière en retour.
+que vous pensez que ce truc vaut le coup, vous pouvez me payer un verre (rempli) en retour.
 
 *Mister aiR*
 
