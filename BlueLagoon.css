@@ -59,8 +59,8 @@ option {
 }
 input:focus, select:focus, textarea:focus {
 	color: #0F0F0F;
-	box-shadow: 0 0 3px #E7AB34;
-	border: solid 1px #E7AB34;
+	box-shadow: 0 0 3px #0062BF;
+	border: solid 1px #0062BF;
 }
 input:invalid, select:invalid {
 	border-color: #f00;
